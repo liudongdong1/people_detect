@@ -1,0 +1,3 @@
+/home/share/HOG-person-detector-opencv-master/build/CMakeFiles/rebuild_cache.dir
+/home/share/HOG-person-detector-opencv-master/build/CMakeFiles/opencv_example.dir
+/home/share/HOG-person-detector-opencv-master/build/CMakeFiles/edit_cache.dir
